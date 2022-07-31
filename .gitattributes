@@ -5,3 +5,5 @@
 *.PcbLib linguist-detectable
 *.schdoc linguist-detectable
 *.pcbdoc linguist-detectable
+*.schdoc linguist-language=SchDoc
+*.pcbdoc linguist-language=PcbDoc
