@@ -3,3 +3,5 @@
 *.PrjPcb linguist-detectable
 *.SchLib linguist-detectable
 *.PcbLib linguist-detectable
+*.schdoc linguist-detectable
+*.pcbdoc linguist-detectable
